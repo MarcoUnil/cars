@@ -1,6 +1,6 @@
 ---
 title: "speed-and-distance"
-output: html_document
+output: github_document
 date: '2022-03-18'
 ---
 
